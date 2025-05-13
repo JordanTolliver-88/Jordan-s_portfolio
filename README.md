@@ -36,12 +36,12 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 **Seasonal Trends and Product Movement Patterns**
 Retail sales in Montgomery County, particularly in categories such as beer, liquor, and wine, exhibit clear seasonal trends that align with holiday periods and key consumer events. The holidays are historically high-demand periods for these product categories, with consumers purchasing alcohol for gatherings, parties, and celebrations. Key periods that influence sales include:
 
-- **End-of-Year Holidays (November - December):**
+**End-of-Year Holidays (November - December):**
 -   Thanksgiving and Christmas consistently drive higher sales in liquor and wine.     Consumers tend to purchase larger quantities during these periods, especially in categories like wine and premium liquor for gifts and celebrations.
 -    New Year’s Eve is another critical period, particularly for champagne, sparkling wines, and spirits. These sales spikes are significant and can sometimes account for a large portion of Q4 sales.
-- **Spring Holidays (March - April):**
+**Spring Holidays (March - April):**
 -   The period around Easter also sees increased consumption of wine and liquor, with Easter brunches and family gatherings encouraging more sales in these categories. Sales of sweet wines and rosé tend to increase during this time.
-- **Summer Holidays (June - August:**
+**Summer Holidays (June - August:**
 -   Memorial Day, 4th of July, and Labor Day are major drivers of beer sales, particularly with BBQs and outdoor gatherings. Beer tends to be the beverage of choice for casual gatherings and is likely to show the highest volume during these months.
 -   Rosé and light wines also see increased sales in the summer as people enjoy more outdoor social events and picnics.
 
@@ -59,19 +59,19 @@ The split between retail and warehouse sales also highlighted trends in distribu
 
 **Recommendations**
 
-1.	Seasonal Inventory Planning and Promotion Strategy: Retailers and suppliers should align inventory and promotion strategies with seasonal sales patterns, stocking high-demand products well in advance. For example, beer sales peak around summer holidays, while wine and liquor sales increase during winter holidays.
-2.	Optimize Supply Chain During Peak Times: Business continuity planning must account for disruptions like the COVID-19 pandemic, which significantly impacted retail sales in 2020. Suppliers should optimize supply chains to ensure high-demand products are available during peak periods and avoid inventory bottlenecks.
-3.	Forecasting and Adjustments for Economic Shocks: Forecasting models should include flexibility to adjust for external shocks, such as pandemics or natural disasters. Historical trends and economic indicators can help businesses adapt forecasts and strategies during volatile market conditions.
-4.	Enhance Consumer Behavior Insights: Tracking sales volume alongside demographic trends helps businesses understand shifting consumer preferences, such as increased wine consumption during the pandemic. This allows businesses to adjust product offerings and marketing strategies accordingly.
-5.	Tailored Marketing Campaigns for Key Events: Retailers should develop targeted campaigns around specific events, such as the Super Bowl or holidays, to drive consumer traffic. Focusing on product promotions during these key moments can improve conversion rates and customer loyalty.
+1.	**Seasonal Inventory Planning and Promotion Strategy:** Retailers and suppliers should align inventory and promotion strategies with seasonal sales patterns, stocking high-demand products well in advance. For example, beer sales peak around summer holidays, while wine and liquor sales increase during winter holidays.
+2.	**Optimize Supply Chain During Peak Times**: Business continuity planning must account for disruptions like the COVID-19 pandemic, which significantly impacted retail sales in 2020. Suppliers should optimize supply chains to ensure high-demand products are available during peak periods and avoid inventory bottlenecks.
+3.	**Forecasting and Adjustments for Economic Shocks:** Forecasting models should include flexibility to adjust for external shocks, such as pandemics or natural disasters. Historical trends and economic indicators can help businesses adapt forecasts and strategies during volatile market conditions.
+4.	**Enhance Consumer Behavior Insights:** Tracking sales volume alongside demographic trends helps businesses understand shifting consumer preferences, such as increased wine consumption during the pandemic. This allows businesses to adjust product offerings and marketing strategies accordingly.
+5.	**Tailored Marketing Campaigns for Key Events**: Retailers should develop targeted campaigns around specific events, such as the Super Bowl or holidays, to drive consumer traffic. Focusing on product promotions during these key moments can improve conversion rates and customer loyalty.
 
 **Assumptions and Caveats**
 
-1.	Impact of COVID-19: The COVID-19 pandemic led to significant sales declines in 2020, which may not reflect long-term trends. Future forecasts should consider post-pandemic recovery and changing consumer behavior.
-2.	Data Quality and Accuracy: The analysis assumes data accuracy, but errors or outliers in the dataset may distort trends. Growth rates, particularly in 2018-2019, should be validated before making strategic decisions.
-3.	Seasonality and External Factors: The analysis assumes that seasonal trends will continue, but changes in market conditions could alter consumer behavior. Businesses should be ready to adjust strategies in response to external factors.
-4.	Forecasting Limitations: Forecasting relies on historical trends, but shifts in consumer preferences or market conditions can affect future performance. Any forecast should be treated as a projection, not a guarantee.
-5.	Regional Variations: Trends observed in Montgomery County may not apply to other regions due to differences in local events and consumer preferences. Stakeholders should assess regional factors when using strategies.
+1.	**Impact of COVID-19:** The COVID-19 pandemic led to significant sales declines in 2020, which may not reflect long-term trends. Future forecasts should consider post-pandemic recovery and changing consumer behavior.
+2.	**Data Quality and Accuracy:** The analysis assumes data accuracy, but errors or outliers in the dataset may distort trends. Growth rates, particularly in 2018-2019, should be validated before making strategic decisions.
+3.	**Seasonality and External Factors:** The analysis assumes that seasonal trends will continue, but changes in market conditions could alter consumer behavior. Businesses should be ready to adjust strategies in response to external factors.
+4.	**Forecasting Limitations:** Forecasting relies on historical trends, but shifts in consumer preferences or market conditions can affect future performance. Any forecast should be treated as a projection, not a guarantee.
+5.	**Regional Variations:** Trends observed in Montgomery County may not apply to other regions due to differences in local events and consumer preferences. Stakeholders should assess regional factors when using strategies.
 
 
 
