@@ -9,9 +9,9 @@ Insights and recommendations on the following key areas
 -	**Seasonal Item Sales Trends**: Identifies which products contribute most to overall revenue and addresses the impact of external events, such as the COVID-19 pandemic, on consumer behavior and retail performance. 
 -	**Retail vs Warehouse Movement**: helps identify distribution patterns, inventory management efficiencies, and potential misalignments between warehouse stock and retail demand.
 
-An interactive Tableau Dashboard can be downloaded [Link]
-The SQL queries utilized to impact and perform quality checks can be accessed [Link]
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be accessed [Link]
+An interactive Tableau Dashboard can be downloaded [title](https://public.tableau.com/app/profile/jordan.tolliver/viz/MontgomeryCountyMarketPerformanceTrends/Dashboard1) 
+The SQL queries utilized to impact and perform quality checks can be accessed [Link] 
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be accessed [Link] 
 Targeted SQL queries regarding various business questions can be found [Link]
 
 # Data Structure & Initial Checks
