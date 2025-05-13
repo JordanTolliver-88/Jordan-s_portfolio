@@ -9,13 +9,13 @@ Insights and recommendations on the following key areas
 -	**Seasonal Item Sales Trends**: Identifies which products contribute most to overall revenue and addresses the impact of external events, such as the COVID-19 pandemic, on consumer behavior and retail performance. 
 -	**Retail vs Warehouse Movement**: helps identify distribution patterns, inventory management efficiencies, and potential misalignments between warehouse stock and retail demand.
 
-An interactive Tableau Dashboard can be downloaded [title](https://public.tableau.com/app/profile/jordan.tolliver/viz/MontgomeryCountyMarketPerformanceTrends/Dashboard1) 
+An interactive Tableau Dashboard can be downloaded [Here](https://public.tableau.com/app/profile/jordan.tolliver/viz/MontgomeryCountyMarketPerformanceTrends/Dashboard1) 
 
-The SQL queries utilized to impact and perform quality checks can be accessed [Link] 
+The SQL queries utilized to impact and perform quality checks can be accessed [Link](https://github.com/JordanTolliver-88/Prod_1_Queries/tree/main) 
 
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be accessed [Link] 
+The SQL queries utilized to clean, organize, and prepare data for the dashboard can be accessed [Link](https://github.com/JordanTolliver-88/Prod_1_Queries/tree/main) 
 
-Targeted SQL queries regarding various business questions can be found [Link]
+Targeted SQL queries regarding various business questions can be found [Link](https://github.com/JordanTolliver-88/Prod_1_Queries/tree/main) 
 
 # Data Structure & Initial Checks
 The company's main database structure, as seen below, consists of four tables: table1, table2, table3, and table4, with a total row count of X records. A description of each table is as follows
@@ -40,7 +40,7 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 Retail sales in Montgomery County, particularly in categories such as beer, liquor, and wine, exhibit clear seasonal trends that align with holiday periods and key consumer events. The holidays are historically high-demand periods for these product categories, with consumers purchasing alcohol for gatherings, parties, and celebrations. Key periods that influence sales include:
 
 **End-of-Year Holidays (November - December):**
--   Thanksgiving and Christmas consistently drive higher sales in liquor and wine.     Consumers tend to purchase larger quantities during these periods, especially in categories like wine and premium liquor for gifts and celebrations.
+-   Thanksgiving and Christmas consistently drive higher sales in liquor and wine. Consumers tend to purchase larger quantities during these periods, especially in categories like wine and premium liquor for gifts and celebrations.
 -    New Year’s Eve is another critical period, particularly for champagne, sparkling wines, and spirits. These sales spikes are significant and can sometimes account for a large portion of Q4 sales.
 **Spring Holidays (March - April):**
 -   The period around Easter also sees increased consumption of wine and liquor, with Easter brunches and family gatherings encouraging more sales in these categories. Sales of sweet wines and rosé tend to increase during this time.
