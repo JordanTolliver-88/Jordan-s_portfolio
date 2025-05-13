@@ -10,8 +10,11 @@ Insights and recommendations on the following key areas
 -	**Retail vs Warehouse Movement**: helps identify distribution patterns, inventory management efficiencies, and potential misalignments between warehouse stock and retail demand.
 
 An interactive Tableau Dashboard can be downloaded [title](https://public.tableau.com/app/profile/jordan.tolliver/viz/MontgomeryCountyMarketPerformanceTrends/Dashboard1) 
+
 The SQL queries utilized to impact and perform quality checks can be accessed [Link] 
+
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be accessed [Link] 
+
 Targeted SQL queries regarding various business questions can be found [Link]
 
 # Data Structure & Initial Checks
