@@ -18,7 +18,7 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 Targeted SQL queries regarding various business questions can be found [Link](https://github.com/JordanTolliver-88/Prod_1_Queries/tree/main) 
 
 # Data Structure & Initial Checks:
-The company’s main database is structured into four key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of **307,646 records**.
+The company’s main database is structured into 9 key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of **307,646 records**.
 Access this link to see more details about the data. [Link]()
 
 # Executive Summary
