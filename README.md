@@ -51,7 +51,7 @@ Retail sales in Montgomery County, particularly in categories such as beer, liqu
 -   **Easter** leads to increased sales of sweet wines and rosé, with a **15% rise in rosé consumption during the Easter weekend**. This increase is driven by brunches, family gatherings, and spring celebrations, where wine tends to be a preferred beverage for these social occasions.
 -   **Liquor** also sees a notable uptick during this period, with whiskey and vodka **sales rising by 20%** during March and April compared to the average sales in the earlier months.
 
-**Summer Holidays (June - August:**
+**Summer Holidays (June - August):**
 
 -   **Memorial Day**, 4th of July, and Labor Day are significant drivers for beer sales, especially in categories like lager and light beer. **Beer sales typically surge by 25-30%** during these holidays due to BBQs and outdoor gatherings.
 -   **Rosé and light wines** also see a rise in sales, with rosé particularly benefitting from summer events like picnics and outdoor festivals, **showing a 20% increase in sales during these months**.
