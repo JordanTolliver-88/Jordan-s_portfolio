@@ -1,6 +1,6 @@
 # Project Background
 
-This project analyzes the Warehouse and Retail Sales data from Montgomery County, Maryland focusing on understanding seasonal sales trends, product performance, and market fluctuations over the period from 2017 to 2020.
+This project analyzes the Warehouse and Retail Sales data from Montgomery County, Maryland, focusing on understanding seasonal sales trends, product performance, and market fluctuations over the period from 2017 to 2020.
 
 Insights and recommendations on the following key areas
 -	**Growth Rate by Year**: Examines the year-over-year growth rates, 
@@ -37,7 +37,8 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 
 ![Rates](https://github.com/user-attachments/assets/28140acb-9d3a-4861-b258-f3e2cd7aa31e)
 
-**Seasonal Trends and Product Movement Patterns**
+**Seasonal Product Movement Patterns**
+
 Retail sales in Montgomery County, particularly in categories such as beer, liquor, and wine, exhibit clear seasonal trends that align with holiday periods and key consumer events. The holidays are historically high-demand periods for these product categories, with consumers purchasing alcohol for gatherings, parties, and celebrations. Key periods that influence sales include:
 
 **End-of-Year Holidays (November - December):**
