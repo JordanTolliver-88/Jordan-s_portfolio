@@ -36,7 +36,7 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 
 - **Exceptional Growth in 2019 Amidst Strong Consumer Demand** In 2019, there was a remarkable rebound in retail sales, especially in beer, liquor, and wine, with some categories seeing **over 400% growth**. This surge suggests strong consumer demand, possibly driven by events or promotions. The stark contrast between 2019 and 2020 highlights the volatility of consumer spending, particularly in retail sectors vulnerable to external shocks.
 
-![Rates](https://github.com/user-attachments/assets/28140acb-9d3a-4861-b258-f3e2cd7aa31e)
+![Dashboard 1](https://github.com/user-attachments/assets/85a01ae1-4342-4382-9d3a-6ed65da14b63)
 
 **Seasonal Product Movement Patterns:**
 
