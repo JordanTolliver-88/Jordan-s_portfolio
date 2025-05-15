@@ -19,7 +19,7 @@ Targeted SQL queries regarding various business questions can be found [Link](ht
 
 # Data Structure & Initial Checks:
 The company’s main database is structured into 9 key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of **307,646 records**.
-Access this link to see more details about the data. [Link]()
+Access this link to see more details about the data. [Link](https://github.com/JordanTolliver-88/Pro_1_Data_Structure_-_Initial-Checks/tree/main)
 
 # Executive Summary
 ## **Overview of Findings**
