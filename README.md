@@ -18,8 +18,8 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 Targeted SQL queries regarding various business questions can be found [Link](https://github.com/JordanTolliver-88/Prod_1_Queries/tree/main) 
 
 # Data Structure & Initial Checks:
-The company's main database structure, as seen below, consists of four tables: table1, table2, table3, and table4, with a total row count of X records. A description of each table is as follows
-Access this link to see more details about the data. [Link]
+The company’s main database is structured into four key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of 307,646 records.
+Access this link to see more details about the data. [Link](https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br/about_data)
 
 # Executive Summary
 ## **Overview of Findings**
