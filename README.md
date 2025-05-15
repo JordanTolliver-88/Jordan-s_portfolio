@@ -19,7 +19,7 @@ Targeted SQL queries regarding various business questions can be found [Link](ht
 
 # Data Structure & Initial Checks:
 The company’s main database is structured into four key tables, each containing critical data related to warehouse and retail sales. These tables are designed to provide a comprehensive view of product sales, inventory movement, and supplier information across various time periods. Below is an overview of each table in the database, with a total row count of **307,646 records**.
-Access this link to see more details about the data. [title](https://data.montgomerycountymd.gov/Community-Recreation/Warehouse-and-Retail-Sales/v76h-r7br/about_data)
+Access this link to see more details about the data. [Link]()
 
 # Executive Summary
 ## **Overview of Findings**
