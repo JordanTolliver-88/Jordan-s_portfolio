@@ -48,13 +48,13 @@ Retail sales in Montgomery County, particularly in categories such as beer, liqu
 
 **Spring Holidays (March - April):**
 
--   **Easter** leads to increased sales of sweet wines and rosé, with a **15% rise in rosé consumption during the Easter weekend**. This increase is driven by brunches, family gatherings, and spring celebrations, where wine tends to be a preferred beverage for these social occasions.
+-   **Easter** leads to increased sales of sweet wines and rosé, with a **15% rise in rosé consumption during the Easter weekend**. This increase may be driven by brunches, family gatherings, and spring celebrations, where wine tends to be a preferred beverage for these social occasions.
 -   **Liquor** also sees a notable uptick during this period, with whiskey and vodka **sales rising by 20%** during March and April compared to the average sales in the earlier months.
 
 **Summer Holidays (June - August):**
 
 -   **Memorial Day**, 4th of July, and Labor Day are significant drivers for beer sales, especially in categories like lager and light beer. **Beer sales typically surge by 25-30%** during these holidays due to BBQs and outdoor gatherings.
--   **Rosé and light wines** also see a rise in sales, with rosé particularly benefitting from summer events like picnics and outdoor festivals, **showing a 20% increase in sales during these months**.
+-   **Wines & Liquors** also see a rise in sales, with rosé particularly benefitting from summer events like picnics and outdoor festivals, **showing a 20% increase in sales during these months**.
 
 ![Seasonal Trends](https://github.com/user-attachments/assets/46b1f693-de1e-4402-9650-6a677a7995bf)
 
@@ -83,17 +83,3 @@ The split between retail and warehouse sales also highlighted trends in distribu
 3.	**Seasonality and External Factors:** The analysis assumes that seasonal trends will continue, but changes in market conditions could alter consumer behavior. Businesses should be ready to adjust strategies in response to external factors.
 4.	**Forecasting Limitations:** Forecasting relies on historical trends, but shifts in consumer preferences or market conditions can affect future performance. Any forecast should be treated as a projection, not a guarantee.
 5.	**Regional Variations:** Trends observed in Montgomery County may not apply to other regions due to differences in local events and consumer preferences. Stakeholders should assess regional factors when using strategies.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
