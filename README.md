@@ -51,6 +51,7 @@ Retail sales in Montgomery County, particularly in categories such as beer, liqu
 **Summer Holidays (June - August:**
 -   **Memorial Day**, 4th of July, and Labor Day are significant drivers for beer sales, especially in categories like lager and light beer. **Beer sales typically surge by 25-30%** during these holidays due to BBQs and outdoor gatherings.
 -   **Rosé and light wines** also see a rise in sales, with rosé particularly benefitting from summer events like picnics and outdoor festivals, **showing a 20% increase in sales during these months**.
+
 ![Seasonal Trends](https://github.com/user-attachments/assets/46b1f693-de1e-4402-9650-6a677a7995bf)
 
 **Impact of Retail vs. Warehouse Sales**
@@ -63,7 +64,7 @@ The split between retail and warehouse sales also highlighted trends in distribu
 
 ![Retailvs dash](https://github.com/user-attachments/assets/71c60f38-28c9-4140-ba9e-fa6027eaab75)
 
-**Recommendations**
+**Recommendations:**
 
 1.	**Seasonal Inventory Planning and Promotion Strategy:** Retailers and suppliers should align inventory and promotion strategies with seasonal sales patterns, stocking high-demand products well in advance. For example, beer sales peak around summer holidays, while wine and liquor sales increase during winter holidays.
 2.	**Optimize Supply Chain During Peak Times**: Business continuity planning must account for disruptions like the COVID-19 pandemic, which significantly impacted retail sales in 2020. Suppliers should optimize supply chains to ensure high-demand products are available during peak periods and avoid inventory bottlenecks.
@@ -71,7 +72,7 @@ The split between retail and warehouse sales also highlighted trends in distribu
 4.	**Enhance Consumer Behavior Insights:** Tracking sales volume alongside demographic trends helps businesses understand shifting consumer preferences, such as increased wine consumption during the pandemic. This allows businesses to adjust product offerings and marketing strategies accordingly.
 5.	**Tailored Marketing Campaigns for Key Events**: Retailers should develop targeted campaigns around specific events, such as the Super Bowl or holidays, to drive consumer traffic. Focusing on product promotions during these key moments can improve conversion rates and customer loyalty.
 
-**Assumptions and Caveats**
+**Assumptions and Caveats:**
 
 1.	**Impact of COVID-19:** The COVID-19 pandemic led to significant sales declines in 2020, which may not reflect long-term trends. Future forecasts should consider post-pandemic recovery and changing consumer behavior.
 2.	**Data Quality and Accuracy:** The analysis assumes data accuracy, but errors or outliers in the dataset may distort trends. Growth rates, particularly in 2018-2019, should be validated before making strategic decisions.
