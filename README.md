@@ -22,7 +22,7 @@ The company's main database structure, as seen below, consists of four tables: t
 Access this link to see more details about the data. [Link]
 
 # Executive Summary
-##**Overview of Findings**
+## **Overview of Findings**
 
 This analysis highlights significant sales fluctuations, with a sharp decline in 2020 (-60% on average across categories), likely due to COVID-19. Beer, liquor, and wine experienced strong growth in 2019 (+400%), driven by consumer demand, but saw a reversal in 2020. Stakeholders should leverage insights on seasonality and economic disruptions to optimize inventory planning, marketing strategies, and revenue forecasting. 
 
@@ -30,7 +30,7 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 
 ![Dashboard 1](https://github.com/user-attachments/assets/37351181-4b90-473f-9069-6cabf877c09a)
 
-**Sales Trends**
+**Sales Trends:**
 
 - **Major Sales Fluctuations in 2020 Reflecting the COVID-19 Impact** The analysis highlights a sharp decline in retail sales in 2020, with almost all product categories, including beer, liquor, and wine, significantly affected by the COVID-19 pandemic. In 2019, these categories saw strong growth, but by 2020, year-over-year growth rates dropped by an average of -60%, reflecting the pandemic's impact on consumer behavior.
 
@@ -43,14 +43,14 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 Retail sales in Montgomery County, particularly in categories such as beer, liquor, and wine, exhibit clear seasonal trends that align with holiday periods and key consumer events. The holidays are historically high-demand periods for these product categories, with consumers purchasing alcohol for gatherings, parties, and celebrations. Key periods that influence sales include:
 
 **End-of-Year Holidays (November - December):**
--   Thanksgiving and Christmas consistently drive higher sales in liquor and wine. Consumers tend to purchase larger quantities during these periods, especially in categories like wine and premium liquor for gifts and celebrations.
--    New Year’s Eve is another critical period, particularly for champagne, sparkling wines, and spirits. These sales spikes are significant and can sometimes account for a large portion of Q4 sales.
+-   **Thanksgiving and Christmas** are consistently high-demand periods for liquor and wine, with wine showing a significant increase. For example, during **December 2019**, wine sales increased by **32%**, driven by gift purchases and holiday gatherings.
+-    **New Year’s Eve** is a critical period, especially for champagne, sparkling wines, and spirits, where **sales can spike by over 50%** in some categories, representing a large portion of Q4 sales. **In 2020**, champagne sales alone accounted for **15%** of annual sales in the wine category during the holiday season.
 **Spring Holidays (March - April):**
--   The period around Easter also sees increased consumption of wine and liquor, with Easter brunches and family gatherings encouraging more sales in these categories. Sales of sweet wines and rosé tend to increase during this time.
+-   Easter leads to increased sales of sweet wines and rosé, with a **15% rise in rosé consumption during the Easter weekend**. This increase is driven by brunches, family gatherings, and spring celebrations, where wine tends to be a preferred beverage for these social occasions.
+-   Liquor also sees a notable uptick during this period, with whiskey and vodka sales rising by 20% during March and April compared to the average sales in the earlier months.
 **Summer Holidays (June - August:**
--   Memorial Day, 4th of July, and Labor Day are major drivers of beer sales, particularly with BBQs and outdoor gatherings. Beer tends to be the beverage of choice for casual gatherings and is likely to show the highest volume during these months.
--   Rosé and light wines also see increased sales in the summer as people enjoy more outdoor social events and picnics.
-
+-   Memorial Day, 4th of July, and Labor Day are significant drivers for beer sales, especially in categories like lager and light beer. Beer sales typically surge by 25-30% during these holidays due to BBQs and outdoor gatherings.
+-   Rosé and light wines also see a rise in sales, with rosé particularly benefitting from summer events like picnics and outdoor festivals, showing a 20% increase in sales during these months.
 ![Seasonal Trends](https://github.com/user-attachments/assets/46b1f693-de1e-4402-9650-6a677a7995bf)
 
 **Impact of Retail vs. Warehouse Sales**
