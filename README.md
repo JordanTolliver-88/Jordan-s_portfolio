@@ -17,7 +17,7 @@ The SQL queries utilized to clean, organize, and prepare data for the dashboard 
 
 Targeted SQL queries regarding various business questions can be found [Link](https://github.com/JordanTolliver-88/Prod_1_Queries/tree/main) 
 
-# Data Structure & Initial Checks
+# Data Structure & Initial Checks:
 The company's main database structure, as seen below, consists of four tables: table1, table2, table3, and table4, with a total row count of X records. A description of each table is as follows
 Access this link to see more details about the data. [Link]
 
@@ -37,7 +37,7 @@ Below is the overview page from the Tableau dashboard, and more examples are inc
 
 ![Rates](https://github.com/user-attachments/assets/28140acb-9d3a-4861-b258-f3e2cd7aa31e)
 
-**Seasonal Product Movement Patterns**
+**Seasonal Product Movement Patterns:**
 
 Retail sales in Montgomery County, particularly in categories such as beer, liquor, and wine, exhibit clear seasonal trends that align with holiday periods and key consumer events. The holidays are historically high-demand periods for these product categories, with consumers purchasing alcohol for gatherings, parties, and celebrations. Key periods that influence sales include:
 
