@@ -24,6 +24,7 @@ Access this link to see more details about the data. [Link]
 # Executive Summary
 **Overview of Findings**
 This analysis highlights significant sales fluctuations, with a sharp decline in 2020 (-60% on average across categories), likely due to COVID-19. Beer, liquor, and wine experienced strong growth in 2019 (+400%), driven by consumer demand, but saw a reversal in 2020. Stakeholders should leverage insights on seasonality and economic disruptions to optimize inventory planning, marketing strategies, and revenue forecasting. 
+
 Below is the overview page from the Tableau dashboard, and more examples are included throughout the report. The entire interactive dashboard can be downloaded [Here](https://public.tableau.com/app/profile/jordan.tolliver/viz/MontgomeryCountyMarketPerformanceTrends/Dashboard1)
 
 ![Dashboard 1](https://github.com/user-attachments/assets/37351181-4b90-473f-9069-6cabf877c09a)
