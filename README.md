@@ -1,6 +1,6 @@
 # Project Background
 
-This project analyzes the Warehouse and Retail Sales data from Montgomery County, Maryland, focusing on understanding seasonal sales trends, product performance, and market fluctuations over the period from 2017 to 2020.
+This project analyzes the Warehouse and Retail Sales data from Montgomery County, Maryland, focusing on understanding seasonal sales trends, product performance, and market fluctuations from 2017 to 2020.
 
 Insights and recommendations on the following key areas
 -	**Growth Rate by Year**: Examines the year-over-year growth rates, 
